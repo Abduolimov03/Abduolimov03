@@ -1,21 +1,35 @@
-<!-- HEADER -->
-<h1 align="center">🌌 Welcome, Traveler...</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=You've+entered+a+secret+dimension.;Loading+virtual+environment...;Decrypting+hidden+messages...;Access+level+GRANTED+✅" alt="Typing SVG" />
-</p>
+# 🎭 The Code Stage
+
+> _"Not everything on GitHub is what it seems…"_ 👀  
+
+✨ Welcome to a place where code isn’t just written — it **performs**.  
+Every repo is an **actor**, every commit is a **line in the script**,  
+and you, traveler, are part of the **audience**. 🎬  
 
 ---
 
-<!-- HACKER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
-</p>
+## 🎨 What’s on the Stage?
+- 🕵️ Hidden projects with unexpected twists  
+- 🧩 Puzzles waiting for curious minds  
+- 🔮 Ideas that might look crazy… until they work  
+- 🚀 Experiments launched just to see _what happens_  
 
 ---
 
-## 🎮 Mission Control
-```bash
-> STATUS: ACTIVE
-> OBJECTIVE: EXPLORE | CREATE | SECURE
-> WARNING: Unknown anomalies detected ⚡
-> Next step? Choose wisely...
+## 🌀 Rules of the Show
+1. **Don’t just read** — explore.  
+2. **Don’t just fork** — remix.  
+3. **Don’t just star** — imagine.  
+
+---
+
+## 🎧 Mood Booster
+While you’re here, imagine some lo-fi beats 🎶,  
+a cup of ☕ coffee on the table,  
+and lines of code dancing on the screen.  
+
+---
+
+🌌 **Enjoy the chaos. Embrace the creativity.**  
+After all, this is not just a profile —  
+it’s a **playground for curious minds**. 🎪
