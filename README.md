@@ -1,18 +1,21 @@
-<h1 align="center">✨ Welcome to the Zone ✨</h1>
+<!-- HEADER -->
+<h1 align="center">🌌 Welcome, Traveler...</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Welcome+Stranger...;You're+not+lost%2C+you're+just+early.;Ready+to+explore+some+code%3F;Fasten+your+seatbelt+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=You've+entered+a+secret+dimension.;Loading+virtual+environment...;Decrypting+hidden+messages...;Access+level+GRANTED+✅" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- HACKER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 🎮 Playground
+## 🎮 Mission Control
 ```bash
-> access granted...
-> loading creative projects ████████░░░░░░
-> enter command: _explore_
+> STATUS: ACTIVE
+> OBJECTIVE: EXPLORE | CREATE | SECURE
+> WARNING: Unknown anomalies detected ⚡
+> Next step? Choose wisely...
