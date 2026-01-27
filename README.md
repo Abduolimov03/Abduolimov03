@@ -5,7 +5,6 @@
     width="100%"
     style="border-radius:12px;"
     
-  />
 </div>
 
 
