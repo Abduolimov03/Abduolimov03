@@ -6,5 +6,3 @@
     style="border-radius:12px;"
     
 </div>
-
-
